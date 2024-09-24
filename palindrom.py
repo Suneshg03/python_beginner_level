@@ -1,6 +1,6 @@
 #PALINDROM:
 
-#METHOD2
+#METHOD1
 value=int(input("ENTER THE VALUE:"))
 value2=value
 rev=0
